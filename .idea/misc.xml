@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/lab4/app/src/main/res/layout/activity_main.xml" value="0.3242753623188406" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/lab4/app/src/main/res/layout/fragment_person_details.xml" value="0.3242753623188406" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/lab4/app/src/main/res/layout/fragment_person_details_list.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/lab4/app/src/main/res/layout/fragment_persons_list.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/lab4/app/src/main/res/layout/fragment_persons_list_list.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/Arek/AndroidStudioProjects/lab4/app/src/main/res/layout-large/activity_main.xml" value="0.24316939890710382" />
+        <entry key="..\:/Users/Arek/AndroidStudioProjects/lab4/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/Arek/AndroidStudioProjects/lab4/app/src/main/res/layout/activity_person_detail.xml" value="0.209375" />
+        <entry key="..\:/Users/Arek/AndroidStudioProjects/lab4/app/src/main/res/layout/fragment_person_details.xml" value="0.209375" />
+        <entry key="..\:/Users/Arek/AndroidStudioProjects/lab4/app/src/main/res/layout/fragment_persons_list.xml" value="0.209375" />
+        <entry key="..\:/Users/Arek/AndroidStudioProjects/lab5/app/src/main/res/layout-large/activity_main.xml" value="0.20116120218579234" />
+        <entry key="..\:/Users/Arek/AndroidStudioProjects/lab5/app/src/main/res/layout/activity_main.xml" value="0.2667572463768116" />
+        <entry key="..\:/Users/Arek/AndroidStudioProjects/lab5/app/src/main/res/layout/activity_person_detail.xml" value="0.2667572463768116" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
